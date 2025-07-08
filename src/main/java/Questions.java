@@ -7,7 +7,7 @@ public class Questions {
         /* 
          * Replace the   return statement with the answer you believe to be true for the question below
          * 
-         * How many variables are in the class "Vehicle"?
+         * How many variablass "Vehicle"?
          */
         return 3;
     }
