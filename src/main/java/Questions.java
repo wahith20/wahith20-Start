@@ -7,7 +7,7 @@ public class Questions {
         /* 
          * Replace the  ith the answer you believe to be true for the question below
          * 
-         * How many variablass "Vehicle"?
+         * How manyblass "Vehicle"?
          */
         return 3;
     }
