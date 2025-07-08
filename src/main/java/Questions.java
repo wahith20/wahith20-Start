@@ -5,7 +5,7 @@
 public class Questions {
     int question1(){
         /* 
-         * Replace the    statement with the answer you believe to be true for the question below
+         * Replace the  ith the answer you believe to be true for the question below
          * 
          * How many variablass "Vehicle"?
          */
